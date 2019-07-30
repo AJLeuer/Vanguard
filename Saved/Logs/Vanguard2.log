@@ -1,0 +1,1243 @@
+﻿Log file open, 07/30/19 01:05:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Vanguard2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.434801
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7740X CPU @ 4.30GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Adam_James -epicuserid=3b2b91b068a6435b8481378b8a09aaae -epiclocale=en-US
+LogInit: Base Directory: D:/Program Files/Unreal Engine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Engine.ini]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Engine.ini]
+[2019.07.30-06.05.37:505][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Engine.ini]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.30-06.05.37:505][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Engine.ini]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.30-06.05.37:506][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Engine.ini]
+[2019.07.30-06.05.37:506][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Engine.ini]
+[2019.07.30-06.05.37:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.30-06.05.37:509][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.30-06.05.37:510][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.30-06.05.37:510][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.30-06.05.37:510][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.30-06.05.37:519][  0]LogHAL: Display: Platform has ~ 16 GB [17082789888 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.30-06.05.37:519][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.30-06.05.37:519][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.30-06.05.37:519][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.30-06.05.37:519][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.30-06.05.37:519][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.30-06.05.37:520][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.30-06.05.37:520][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.30-06.05.37:521][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.30-06.05.37:521][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Config/Windows/Engine.ini]
+[2019.07.30-06.05.37:521][  0]LogInit: Computer: X299-DELUXE
+[2019.07.30-06.05.37:521][  0]LogInit: User: Adam
+[2019.07.30-06.05.37:521][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.30-06.05.37:521][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.30-06.05.37:521][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.30-06.05.37:521][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.30-06.05.37:521][  0]LogMemory: Process Physical Memory: 95.96 MB used, 95.96 MB peak
+[2019.07.30-06.05.37:521][  0]LogMemory: Process Virtual Memory: 90.56 MB used, 90.56 MB peak
+[2019.07.30-06.05.37:521][  0]LogMemory: Physical Memory: 9537.17 MB used,  6754.25 MB free, 16291.42 MB total
+[2019.07.30-06.05.37:521][  0]LogMemory: Virtual Memory: 4642.62 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.07.30-06.05.37:660][  0]LogInit: Using OS detected language (en-US).
+[2019.07.30-06.05.37:660][  0]LogInit: Using OS detected locale (en-US).
+[2019.07.30-06.05.37:661][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.07.30-06.05.37:907][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.30-06.05.37:971][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.30-06.05.37:971][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.30-06.05.39:769][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.30-06.05.39:863][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.07.30-06.05.39:863][  0]LogD3D11RHI:       7988/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.30-06.05.39:866][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.30-06.05.39:866][  0]LogD3D11RHI:       0/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.30-06.05.39:866][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.30-06.05.39:873][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.30-06.05.39:873][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.30-06.05.39:873][  0]LogWindows: EnumDisplayDevices:
+[2019.07.30-06.05.39:873][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.07.30-06.05.39:873][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.07.30-06.05.39:874][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.07.30-06.05.39:874][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.07.30-06.05.39:874][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.07.30-06.05.39:874][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.07.30-06.05.39:874][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.07.30-06.05.39:874][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.07.30-06.05.39:874][  0]LogRHI: Texture pool is 5591 MB (70% of 7988 MB)
+[2019.07.30-06.05.39:933][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.30-06.05.39:951][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.30-06.05.39:952][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.30-06.05.39:952][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.30-06.05.39:960][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.30-06.05.40:007][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2019.07.30-06.05.40:358][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.30-06.05.40:385][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.30-06.05.40:406][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.30-06.05.40:426][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.30-06.05.40:446][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.30-06.05.40:466][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.30-06.05.40:491][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.30-06.05.40:511][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.30-06.05.40:524][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.30-06.05.40:611][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.30-06.05.40:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.30-06.05.40:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.30-06.05.40:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.30-06.05.40:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.30-06.05.40:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.30-06.05.40:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.30-06.05.40:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.30-06.05.40:612][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.30-06.05.40:624][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.30-06.05.40:698][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.30-06.05.40:698][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.30-06.05.40:726][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.30-06.05.40:726][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.30-06.05.40:747][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.30-06.05.40:768][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.30-06.05.40:787][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.30-06.05.40:807][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.30-06.05.40:852][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.30-06.05.40:852][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.30-06.05.40:852][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.30-06.05.40:895][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.30-06.05.41:085][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/Adam/Developer/Vanguard2/Vanguard2/Intermediate/Shaders/WorkingDirectory/24980/).
+[2019.07.30-06.05.41:085][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adam/AppData/Local/Temp/UnrealShaderWorkingDir/DF0186A244FA1D323048DFA227B62AC6/'.
+[2019.07.30-06.05.41:086][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.30-06.05.41:086][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.30-06.05.41:086][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.30-06.05.41:636][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.30-06.05.41:710][  0]LogDerivedDataCache: Loaded boot cache 0.07s 75MB C:/Users/Adam/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.30-06.05.41:710][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adam/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.30-06.05.41:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Adam/Developer/Vanguard2/Vanguard2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.30-06.05.41:710][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.30-06.05.41:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Adam/Developer/Vanguard2/Vanguard2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.30-06.05.41:710][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.30-06.05.41:728][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.30-06.05.41:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.30-06.05.41:728][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.30-06.05.41:740][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.30-06.05.41:740][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.30-06.05.41:740][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.30-06.05.41:758][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.30-06.05.41:759][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.30-06.05.41:771][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.30-06.05.41:979][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2019.07.30-06.05.42:247][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.30-06.05.42:559][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.30-06.05.42:559][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.30-06.05.42:559][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.30-06.05.42:559][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.30-06.05.42:559][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.30-06.05.42:621][  0]LogNetVersion: Vanguard2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1915049799)
+[2019.07.30-06.05.43:406][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.033567 seconds
+[2019.07.30-06.05.43:412][  0]LogUObjectArray: 41958 objects as part of root set at end of initial load.
+[2019.07.30-06.05.43:412][  0]LogUObjectAllocator: 7284248 out of 0 bytes used by permanent object pool.
+[2019.07.30-06.05.43:412][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.30-06.05.46:455][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.30-06.05.46:479][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.30-06.05.46:908][  0]SourceControl: Source control is disabled
+[2019.07.30-06.05.46:908][  0]SourceControl: Source control is disabled
+[2019.07.30-06.05.46:923][  0]SourceControl: Source control is disabled
+[2019.07.30-06.05.46:937][  0]SourceControl: Source control is disabled
+[2019.07.30-06.05.47:412][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.30-06.05.47:693][  0]LogOcInput: OculusInput pre-init called
+[2019.07.30-06.05.48:386][  0]LogEngine: Initializing Engine...
+[2019.07.30-06.05.48:387][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.30-06.05.48:784][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.30-06.05.48:812][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.30-06.05.48:849][  0]LogInit: XAudio2 using 'AV Receiver (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-06.05.48:925][  0]LogInit: FAudioDevice initialized.
+[2019.07.30-06.05.48:925][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.30-06.05.48:959][  0]LogDerivedDataCache: Saved boot cache 0.03s 75MB C:/Users/Adam/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.30-06.05.48:968][  0]LogInit: Texture streaming: Enabled
+[2019.07.30-06.05.49:024][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.30-06.05.49:235][  0]LogInit: Transaction tracking system initialized
+[2019.07.30-06.05.49:319][  0]BlueprintLog: New page: Editor Load
+[2019.07.30-06.05.49:664][  0]LocalizationService: Localization service is disabled
+[2019.07.30-06.05.50:428][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Content/' took 0.01s
+[2019.07.30-06.05.50:428][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.30-06.05.50:428][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.30-06.05.51:274][  0]SourceControl: Source control is disabled
+[2019.07.30-06.05.51:274][  0]Cmd: MAP LOAD FILE="C:/Users/Adam/Developer/Vanguard2/Vanguard2/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.30-06.05.51:275][  0]LightingResults: New page: Lighting Build
+[2019.07.30-06.05.51:277][  0]MapCheck: New page: Map Check
+[2019.07.30-06.05.51:277][  0]LightingResults: New page: Lighting Build
+[2019.07.30-06.05.51:304][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.07.30-06.05.51:466][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.30-06.05.51:485][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.30-06.05.51:518][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.07.30-06.05.51:518][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.30-06.05.51:518][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2019.07.30-06.05.51:519][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.245
+[2019.07.30-06.05.52:918][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-06.05.52:927][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-06.05.52:936][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-06.05.52:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-06.05.52:974][  0]LogCollectionManager: Loaded 0 collections in 0.000938 seconds
+[2019.07.30-06.05.53:004][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Collections/' took 0.03s
+[2019.07.30-06.05.53:004][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Content/Developers/Adam/Collections/' took 0.00s
+[2019.07.30-06.05.53:004][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Content/Collections/' took 0.00s
+[2019.07.30-06.05.53:004][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.30-06.05.53:021][  0]LogContentBrowser: Native class hierarchy populated in 0.0168 seconds. Added 2731 classes and 656 folders.
+[2019.07.30-06.05.53:028][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.30-06.05.53:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:085][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:234][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:240][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-06.05.53:434][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.30-06.05.53:454][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.07.30-06.05.53:511][  0]LogSlate: Took 0.005247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.30-06.05.54:052][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.30-06.05.54:052][  0]LogLoad: (Engine Initialization) Total time: 20.27 seconds
+[2019.07.30-06.05.54:052][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.30-06.05.54:093][  0]LogAssetRegistry: Asset discovery search completed in 12.1361 seconds
+[2019.07.30-06.05.54:095][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.30-06.05.54:095][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.07.30-06.05.54:096][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.30-06.05.54:116][  0]LogSlate: Took 0.007264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.30-06.05.54:126][  0]LogSlate: Took 0.005867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.30-06.05.54:372][  1]LogRenderer: Reallocating scene render targets to support 684x356 Format 10 NumSamples 1 (Frame:1).
+[2019.07.30-06.08.17:057][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-06.08.32:842][952]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.07.30-06.08.32:895][952]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.07.30-06.09.44:218][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-06.09.44:859][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-06.09.48:221][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-06.09.51:622][334]LogSlate: Took 0.009743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.30-06.09.51:626][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-06.09.51:679][334]Running D:/Program Files/Unreal Engine/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Adam/Developer/Vanguard2/Vanguard2/Vanguard2.uproject" -game -rocket -progress
+[2019.07.30-06.09.51:985][334]Discovering modules, targets and source code for project...
+[2019.07.30-06.09.53:192][334]Binding IntelliSense data...
+[2019.07.30-06.09.54:759][334]Binding IntelliSense data... 100%
+[2019.07.30-06.09.54:760][334]Writing project files...
+[2019.07.30-06.09.55:968][334]Writing project files... 100%
+[2019.07.30-06.13.51:507][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-06.13.51:800][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-06.13.56:612][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.22.17:077][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.07.30-07.22.19:877][304]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.07.30-07.22.21:331][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2019.07.30-07.22.22:217][576]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.07.30-07.22.23:043][661]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.07.30-07.22.23:720][738]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (1M_Cube_Chamfer)
+[2019.07.30-07.22.24:853][864]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.07.30-07.22.25:665][957]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall7)
+[2019.07.30-07.22.27:655][188]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RightArm_StaticMesh)
+[2019.07.30-07.22.35:664][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube_Chamfer)
+[2019.07.30-07.22.38:021][389]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.07.30-07.22.39:653][579]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.07.30-07.22.56:536][600]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bump_StaticMesh)
+[2019.07.30-07.22.57:392][699]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RightArm_StaticMesh)
+[2019.07.30-07.22.58:404][817]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.07.30-07.23.06:829][823]Cmd: DELETE
+[2019.07.30-07.23.06:829][823]Cmd: ACTOR DELETE
+[2019.07.30-07.23.06:852][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.06:856][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.06:856][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.06:857][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.06:857][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.06:857][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.06:883][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.07.30-07.23.06:884][823]LogEditorActor: Deleted 6 Actors (0.046 secs)
+[2019.07.30-07.23.10:593][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.23.10:825][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.07.30-07.23.10:999][272]LogSavePackage: Moving 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/ThirdPersonExampleMap49F70D9145DE81788A3704BDDC623F63.tmp' to 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.07.30-07.23.11:170][272]LogSavePackage: Moving 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/ThirdPersonExampleMap_BuiltData48A880594E069907EA18078494D40BBA.tmp' to 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.07.30-07.23.15:989][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2019.07.30-07.23.18:500][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall8)
+[2019.07.30-07.23.20:555][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.07.30-07.23.25:814][  3]Cmd: DELETE
+[2019.07.30-07.23.25:815][  3]Cmd: ACTOR DELETE
+[2019.07.30-07.23.25:815][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.25:835][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.07.30-07.23.25:835][  3]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.07.30-07.23.26:853][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall8)
+[2019.07.30-07.23.27:964][255]Cmd: DELETE
+[2019.07.30-07.23.27:964][255]Cmd: ACTOR DELETE
+[2019.07.30-07.23.27:965][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.27:982][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2019.07.30-07.23.27:982][255]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2019.07.30-07.23.29:800][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall6)
+[2019.07.30-07.23.30:772][586]Cmd: DELETE
+[2019.07.30-07.23.30:772][586]Cmd: ACTOR DELETE
+[2019.07.30-07.23.30:773][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.30:791][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.07.30-07.23.30:791][586]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.07.30-07.23.32:073][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.07.30-07.23.33:052][854]Cmd: DELETE
+[2019.07.30-07.23.33:052][854]Cmd: ACTOR DELETE
+[2019.07.30-07.23.33:053][854]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.30-07.23.33:069][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2019.07.30-07.23.33:069][854]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2019.07.30-07.23.37:095][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.23.40:771][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.23.40:935][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2019.07.30-07.23.41:020][686]LogSavePackage: Moving 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/ThirdPersonExampleMap633A71DC42F3BE62154D57B2B67FA385.tmp' to 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2019.07.30-07.23.41:125][686]LogSavePackage: Moving 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/ThirdPersonExampleMap_BuiltDataA82D8165464C60214BE17E81623E1367.tmp' to 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.07.30-07.23.42:601][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.23.45:209][ 42]UATHelper: Cooking (Windows): Running AutomationTool...
+[2019.07.30-07.23.45:380][ 50]UATHelper: Cooking (Windows): Parsing command line: -ScriptsForProject=C:/Users/Adam/Developer/Vanguard2/Vanguard2/Vanguard2.uproject BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project=C:/Users/Adam/Developer/Vanguard2/Vanguard2/Vanguard2.uproject -cook -skipstage -ue4exe="D:\Program Files\Unreal Engine\UE_4.22\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -targetplatform=Win64 -utf8output
+[2019.07.30-07.23.46:098][114]UATHelper: Cooking (Windows): Setting up ProjectParams for C:\Users\Adam\Developer\Vanguard2\Vanguard2\Vanguard2.uproject
+[2019.07.30-07.23.46:581][171]UATHelper: Cooking (Windows): ********** COOK COMMAND STARTED **********
+[2019.07.30-07.23.46:581][171]UATHelper: Cooking (Windows): Running UE4Editor Cook for project C:\Users\Adam\Developer\Vanguard2\Vanguard2\Vanguard2.uproject
+[2019.07.30-07.23.46:591][172]UATHelper: Cooking (Windows): Commandlet log file is D:\Program Files\Unreal Engine\UE_4.22\Engine\Programs\AutomationTool\Saved\Cook-2019.07.30-02.23.46.txt
+[2019.07.30-07.23.46:591][172]UATHelper: Cooking (Windows): Running: D:\Program Files\Unreal Engine\UE_4.22\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\Adam\Developer\Vanguard2\Vanguard2\Vanguard2.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="D:\Program Files\Unreal Engine\UE_4.22\Engine\Programs\AutomationTool\Saved\Cook-2019.07.30-02.23.46.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2019.07.30-07.23.46:831][201]UATHelper: Cooking (Windows):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.07.30-07.23.46:831][201]UATHelper: Cooking (Windows):   LogInit: Display: Running engine for game: Vanguard2
+[2019.07.30-07.23.48:619][415]UATHelper: Cooking (Windows):   LogHAL: Display: Platform has ~ 16 GB [17082789888 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.30-07.23.51:622][775]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.30-07.23.51:638][777]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.30-07.23.51:655][779]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.30-07.23.51:662][780]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.30-07.23.51:679][782]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.30-07.23.51:696][784]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.30-07.23.51:713][786]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.30-07.23.51:729][788]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.30-07.23.51:729][788]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.30-07.23.51:782][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.23.51:817][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.30-07.23.51:817][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.30-07.23.51:818][797]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.30-07.23.51:866][803]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.30-07.23.51:866][803]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.30-07.23.51:891][806]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.30-07.23.51:891][806]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.30-07.23.51:908][808]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.30-07.23.51:915][809]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.30-07.23.51:932][811]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.30-07.23.51:949][813]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.30-07.23.51:991][818]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.30-07.23.51:991][818]UATHelper: Cooking (Windows):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.30-07.23.51:991][818]UATHelper: Cooking (Windows):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2019.07.30-07.23.52:000][819]UATHelper: Cooking (Windows):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.30-07.23.52:058][826]UATHelper: Cooking (Windows):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.30-07.23.53:934][993]UATHelper: Cooking (Windows):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.30-07.23.54:017][  3]UATHelper: Cooking (Windows):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adam/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.30-07.23.54:033][  5]UATHelper: Cooking (Windows):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.30-07.23.55:967][223]UATHelper: Cooking (Windows):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.30-07.23.55:967][223]UATHelper: Cooking (Windows):   LogCook: Display: Mobile HDR setting 1
+[2019.07.30-07.23.55:967][223]UATHelper: Cooking (Windows):   LogCook: Display: Creating asset registry
+[2019.07.30-07.23.56:552][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.24.01:334][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.24.04:044][107]UATHelper: Cooking (Windows):   LogCook: Display: Discovering localized assets
+[2019.07.30-07.24.04:069][110]UATHelper: Cooking (Windows):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2019.07.30-07.24.04:069][110]UATHelper: Cooking (Windows):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2019.07.30-07.24.04:124][116]UATHelper: Cooking (Windows):   LogCook: Display: Sandbox cleanup took 0.054 seconds for platforms WindowsNoEditor  iterative false
+[2019.07.30-07.24.04:439][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.24.05:231][237]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 0 Packages Remain 219 Total 219
+[2019.07.30-07.24.05:563][270]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 50 Packages Remain 218 Total 268
+[2019.07.30-07.24.05:722][285]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 100 Packages Remain 217 Total 317
+[2019.07.30-07.24.06:215][340]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 150 Packages Remain 216 Total 366
+[2019.07.30-07.24.06:457][367]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 184 Packages Remain 215 Total 399
+[2019.07.30-07.24.06:470][369]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 185 Packages Remain 214 Total 399
+[2019.07.30-07.24.06:487][371]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 186 Packages Remain 213 Total 399
+[2019.07.30-07.24.06:520][375]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 188 Packages Remain 212 Total 400
+[2019.07.30-07.24.06:529][376]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 211 Total 400
+[2019.07.30-07.24.06:529][376]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 210 Total 399
+[2019.07.30-07.24.06:529][376]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 209 Total 398
+[2019.07.30-07.24.06:529][376]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 208 Total 397
+[2019.07.30-07.24.06:529][376]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 207 Total 396
+[2019.07.30-07.24.06:529][376]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 206 Total 395
+[2019.07.30-07.24.06:538][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 205 Total 394
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 204 Total 393
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 203 Total 392
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 202 Total 391
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 201 Total 390
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 200 Total 389
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 199 Total 388
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 198 Total 387
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 197 Total 386
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 196 Total 385
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 195 Total 384
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 194 Total 383
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 193 Total 382
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 192 Total 381
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 191 Total 380
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 190 Total 379
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 189 Total 378
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 188 Total 377
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 187 Total 376
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 186 Total 375
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 185 Total 374
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 184 Total 373
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 183 Total 372
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 182 Total 371
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 181 Total 370
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 180 Total 369
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 179 Total 368
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 178 Total 367
+[2019.07.30-07.24.06:539][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 177 Total 366
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 176 Total 365
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 175 Total 364
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 174 Total 363
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 173 Total 362
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 172 Total 361
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 171 Total 360
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 170 Total 359
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 169 Total 358
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 168 Total 357
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 167 Total 356
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 166 Total 355
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 165 Total 354
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 164 Total 353
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 163 Total 352
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 162 Total 351
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 161 Total 350
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 160 Total 349
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 159 Total 348
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 158 Total 347
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 157 Total 346
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 156 Total 345
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 155 Total 344
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 154 Total 343
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 153 Total 342
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 152 Total 341
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 151 Total 340
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 150 Total 339
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 149 Total 338
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 148 Total 337
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 147 Total 336
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 146 Total 335
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 145 Total 334
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 144 Total 333
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 143 Total 332
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 142 Total 331
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 141 Total 330
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 140 Total 329
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 139 Total 328
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 138 Total 327
+[2019.07.30-07.24.06:540][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 137 Total 326
+[2019.07.30-07.24.06:541][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 136 Total 325
+[2019.07.30-07.24.06:541][377]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 135 Total 324
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 134 Total 323
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 133 Total 322
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 132 Total 321
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 131 Total 320
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 130 Total 319
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 129 Total 318
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 128 Total 317
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 127 Total 316
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 126 Total 315
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 125 Total 314
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 124 Total 313
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 123 Total 312
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 122 Total 311
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 121 Total 310
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 120 Total 309
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 119 Total 308
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 118 Total 307
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 117 Total 306
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 116 Total 305
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 115 Total 304
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 114 Total 303
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 113 Total 302
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 112 Total 301
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 111 Total 300
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 110 Total 299
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 109 Total 298
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 108 Total 297
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 107 Total 296
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 106 Total 295
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 105 Total 294
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 104 Total 293
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 103 Total 292
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 102 Total 291
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 101 Total 290
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 100 Total 289
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 99 Total 288
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 98 Total 287
+[2019.07.30-07.24.06:547][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 97 Total 286
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 96 Total 285
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 95 Total 284
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 94 Total 283
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 93 Total 282
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 92 Total 281
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 91 Total 280
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 90 Total 279
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 89 Total 278
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 88 Total 277
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 87 Total 276
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 86 Total 275
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 85 Total 274
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 84 Total 273
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 83 Total 272
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 82 Total 271
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 81 Total 270
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 80 Total 269
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 79 Total 268
+[2019.07.30-07.24.06:548][378]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 78 Total 267
+[2019.07.30-07.24.06:555][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 77 Total 266
+[2019.07.30-07.24.06:555][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 76 Total 265
+[2019.07.30-07.24.06:555][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 75 Total 264
+[2019.07.30-07.24.06:555][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 74 Total 263
+[2019.07.30-07.24.06:555][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 73 Total 262
+[2019.07.30-07.24.06:555][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 72 Total 261
+[2019.07.30-07.24.06:555][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 71 Total 260
+[2019.07.30-07.24.06:556][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 70 Total 259
+[2019.07.30-07.24.06:556][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 69 Total 258
+[2019.07.30-07.24.06:556][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 68 Total 257
+[2019.07.30-07.24.06:556][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 67 Total 256
+[2019.07.30-07.24.06:556][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 66 Total 255
+[2019.07.30-07.24.06:556][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 65 Total 254
+[2019.07.30-07.24.06:556][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 64 Total 253
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 63 Total 252
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 62 Total 251
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 61 Total 250
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 60 Total 249
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 59 Total 248
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 58 Total 247
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 57 Total 246
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 56 Total 245
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 55 Total 244
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 54 Total 243
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 53 Total 242
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 52 Total 241
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 51 Total 240
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 50 Total 239
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 49 Total 238
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 48 Total 237
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 47 Total 236
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 46 Total 235
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 45 Total 234
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 44 Total 233
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 43 Total 232
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 42 Total 231
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 41 Total 230
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 40 Total 229
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 39 Total 228
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 38 Total 227
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 37 Total 226
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 36 Total 225
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 35 Total 224
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 34 Total 223
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 33 Total 222
+[2019.07.30-07.24.06:557][379]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 189 Packages Remain 32 Total 221
+[2019.07.30-07.24.06:565][380]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 195 Packages Remain 31 Total 226
+[2019.07.30-07.24.06:576][381]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 203 Packages Remain 30 Total 233
+[2019.07.30-07.24.06:600][384]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 208 Packages Remain 29 Total 237
+[2019.07.30-07.24.06:848][413]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 221 Packages Remain 28 Total 249
+[2019.07.30-07.24.06:848][413]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 221 Packages Remain 27 Total 248
+[2019.07.30-07.24.06:873][416]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 225 Packages Remain 26 Total 251
+[2019.07.30-07.24.06:881][417]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 226 Packages Remain 25 Total 251
+[2019.07.30-07.24.06:881][417]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 226 Packages Remain 24 Total 250
+[2019.07.30-07.24.06:881][417]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 227 Packages Remain 23 Total 250
+[2019.07.30-07.24.06:889][418]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 228 Packages Remain 22 Total 250
+[2019.07.30-07.24.06:889][418]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 229 Packages Remain 21 Total 250
+[2019.07.30-07.24.06:889][418]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 230 Packages Remain 20 Total 250
+[2019.07.30-07.24.06:897][419]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 231 Packages Remain 19 Total 250
+[2019.07.30-07.24.06:897][419]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 231 Packages Remain 18 Total 249
+[2019.07.30-07.24.06:897][419]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 231 Packages Remain 17 Total 248
+[2019.07.30-07.24.06:906][420]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 232 Packages Remain 16 Total 248
+[2019.07.30-07.24.06:906][420]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 15 Total 248
+[2019.07.30-07.24.06:906][420]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 14 Total 247
+[2019.07.30-07.24.06:906][420]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 13 Total 246
+[2019.07.30-07.24.06:906][420]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 12 Total 245
+[2019.07.30-07.24.06:906][420]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 11 Total 244
+[2019.07.30-07.24.06:906][420]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 10 Total 243
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 9 Total 242
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 8 Total 241
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 7 Total 240
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 6 Total 239
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 5 Total 238
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 4 Total 237
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 3 Total 236
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 2 Total 235
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogCook: Display: Cooked packages 233 Packages Remain 1 Total 234
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.07.30-07.24.06:914][421]UATHelper: Cooking (Windows):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.07.30-07.24.06:982][429]UATHelper: Cooking (Windows):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 228, size is 93.92kb
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display: Cook by the book total time in tick 1.676241s total time 11.063852
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display: Peak Used virtual 568MB Peak Used physical 530MB
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display: Hierarchy Timer Information:
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display:   Root: 0.000s (0)
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display:     StartCookByTheBookTime: 9.287s (1)
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display:       GenerateAssetRegistryTime: 8.083s (1)
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display:       CleanSandboxTime: 0.054s (1)
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display:         ProcessingAccessedStrings: 0.013s (1)
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display:       CollectFilesToCook: 0.356s (1)
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2019.07.30-07.24.07:008][432]UATHelper: Cooking (Windows):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:     TickCookOnTheSide: 1.648s (36)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       LoadPackage: 0.160s (36)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.078s (36)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       PostLoadPackageFixup: 0.000s (36)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       SavingPackages: 1.408s (21)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.009s (224)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.633s (217)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:         SaveCookedPackage: 0.753s (233)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:           LoadPackage: 0.000s (233)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:           GEditorSavePackage: 0.742s (233)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:             ConvertingBlueprints: 0.005s (233)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:             VerifyCanCookPackage: 0.001s (228)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.005s (233)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (3)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:     GeneratingBlueprintAssets: 0.005s (1)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:     SavingCurrentIniSettings: 0.050s (1)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       ProcessingAccessedStrings: 0.018s (1)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:     SavingAssetRegistry: 0.042s (1)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       BuildChunkManifest: 0.015s (1)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       SaveManifests: 0.001s (1)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       SaveRealAssetRegistry: 0.023s (1)
+[2019.07.30-07.24.07:019][433]UATHelper: Cooking (Windows):   LogCook: Display:       WriteCookerOpenOrder: 0.002s (1)
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogSavePackage: Display: Took 0.001882s to verify the EDL loading graph.
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Misc Cook Stats
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: ===============
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: ShaderCompiler
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000046
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: GlobalShader.Misc
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: MaterialShader.Misc
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Package.Load
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     NumPackagesLoaded=159
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     LoadPackageTimeSec=0.880808
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Package.Save
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     NumPackagesSaved=233
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     SavePackageTimeSec=0.723225
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.131329
+[2019.07.30-07.24.07:020][433]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.057810
+[2019.07.30-07.24.07:026][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.000678
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.001247
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000144
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.088672
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.086388
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.070914
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.112332
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     MBWritten=86.284567
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Package.DiffTotal
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Cook Profile
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: ============
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0.CookWallTimeSec=20.325155
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=9.248762
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=11.075892
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=9.287636
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000256
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=1.779200
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.160895
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.752784
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.719775
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.005584
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000460
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000006
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000312
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000002
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: DDC Summary Stats
+[2019.07.30-07.24.07:027][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: =================
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: TotalGetHits  =       720
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: TotalGets     =       720
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: LocalGetHitPct=  0.059722
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: OtherGetHitPct=  0.940278
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: TotalPutHits  =         0
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: TotalPuts     =         0
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: TotalPutHitPct= -nan(ind)
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: PutMissPct    = -nan(ind)
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display:
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: DDC Resource Stats
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: =======================================================================================================
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: MaterialShader                                  0.18                   0.18             0          7.50
+[2019.07.30-07.24.07:028][434]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Texture (Streaming)                             0.16                   0.00             0         28.56
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: Texture (Inline)                                0.05                   0.05             0         34.68
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: StaticMesh                                      0.03                   0.03             0          3.56
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: GlobalShader                                    0.03                   0.03             0          5.14
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.02                   0.02             0          1.34
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: SkeletalMesh                                    0.00                   0.00             0          3.09
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.04
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.03
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogInit: Display:
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   LogInit: Display:
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   
+[2019.07.30-07.24.07:035][435]UATHelper: Cooking (Windows):   Execution of commandlet took:  11.09 seconds
+[2019.07.30-07.24.07:217][457]UATHelper: Cooking (Windows):   LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.30-07.24.07:826][529]UATHelper: Cooking (Windows):   FGlobalReadBuffer::ReleaseRHI
+[2019.07.30-07.24.07:826][529]UATHelper: Cooking (Windows):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.30-07.24.07:826][529]UATHelper: Cooking (Windows):   FGlobalReadBuffer::ReleaseRHI
+[2019.07.30-07.24.07:826][529]UATHelper: Cooking (Windows):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.30-07.24.07:826][529]UATHelper: Cooking (Windows):   FGlobalReadBuffer::ReleaseRHI
+[2019.07.30-07.24.07:826][529]UATHelper: Cooking (Windows):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.30-07.24.07:886][536]UATHelper: Cooking (Windows): Took 21.2962533s to run UE4Editor-Cmd.exe, ExitCode=0
+[2019.07.30-07.24.07:894][537]UATHelper: Cooking (Windows): ********** COOK COMMAND COMPLETED **********
+[2019.07.30-07.24.07:903][538]UATHelper: Cooking (Windows): BUILD SUCCESSFUL
+[2019.07.30-07.24.07:903][538]UATHelper: Cooking (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2019.07.30-07.24.11:298][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.24.34:450][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.24.41:481][331]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.07.30-07.24.43:724][563]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.24.45:335][748]LogEditorViewport: Clicking on Actor (CTRL LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.07.30-07.24.46:594][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.24.47:681][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.24.51:411][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.24.52:922][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.25.07:931][214]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.07.30-07.25.07:981][214]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.07.30-07.25.15:144][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-07.25.38:692][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.25.42:126][217]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.25.44:543][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.27.18:322][803]LogSlate: Window 'Message' being destroyed
+[2019.07.30-07.27.20:666][803]LogSlate: Window 'Message' being destroyed
+[2019.07.30-07.27.23:372][803]LogSlate: Window 'Message' being destroyed
+[2019.07.30-07.27.24:685][955]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.07.30-07.27.24:733][955]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.07.30-07.27.28:741][414]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.07.30-07.27.28:784][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.27.39:432][463]LogRenderer: Reallocating scene render targets to support 824x460 Format 10 NumSamples 1 (Frame:31458).
+[2019.07.30-07.28.08:635][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.28.39:754][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.28.39:759][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.28.39:771][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.28.39:776][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.28.44:209][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.28.52:394][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.28.53:975][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.28.53:980][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.28.53:986][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.28.53:991][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.28.53:992][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.29.01:293][514]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.07.30-07.29.03:491][765]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.29.05:205][963]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.07.30-07.29.05:275][963]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.07.30-07.29.06:379][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.29.06:449][ 89]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2019.07.30-07.29.07:878][258]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.07.30-07.29.11:698][697]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.29.12:519][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.29.17:151][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.29.24:302][122]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2019.07.30-07.29.24:313][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.29.52:063][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.30.01:517][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.30.02:532][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.30.04:308][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.30.08:068][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.30.14:610][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.30.27:374][968]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.30.27:394][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.30.34:488][683]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.07.30-07.30.35:164][740]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.07.30-07.30.38:810][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.30.45:466][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-07.30.46:589][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.30.53:202][821]LogRenderer: Reallocating scene render targets to support 848x476 Format 10 NumSamples 1 (Frame:46727).
+[2019.07.30-07.30.53:243][823]LogRenderer: Reallocating scene render targets to support 892x496 Format 10 NumSamples 1 (Frame:46728).
+[2019.07.30-07.30.53:269][824]LogRenderer: Reallocating scene render targets to support 1024x572 Format 10 NumSamples 1 (Frame:46729).
+[2019.07.30-07.30.53:299][825]LogRenderer: Reallocating scene render targets to support 1104x616 Format 10 NumSamples 1 (Frame:46730).
+[2019.07.30-07.30.53:327][826]LogRenderer: Reallocating scene render targets to support 1112x620 Format 10 NumSamples 1 (Frame:46731).
+[2019.07.30-07.30.55:270][ 57]LogRenderer: Reallocating scene render targets to support 1128x632 Format 10 NumSamples 1 (Frame:46830).
+[2019.07.30-07.30.55:297][ 59]LogRenderer: Reallocating scene render targets to support 1136x636 Format 10 NumSamples 1 (Frame:46831).
+[2019.07.30-07.30.55:363][ 65]LogRenderer: Reallocating scene render targets to support 1144x640 Format 10 NumSamples 1 (Frame:46833).
+[2019.07.30-07.30.55:403][ 68]LogRenderer: Reallocating scene render targets to support 1164x648 Format 10 NumSamples 1 (Frame:46835).
+[2019.07.30-07.30.55:427][ 69]LogRenderer: Reallocating scene render targets to support 1172x652 Format 10 NumSamples 1 (Frame:46836).
+[2019.07.30-07.30.55:457][ 70]LogRenderer: Reallocating scene render targets to support 1204x672 Format 10 NumSamples 1 (Frame:46837).
+[2019.07.30-07.30.55:485][ 71]LogRenderer: Reallocating scene render targets to support 1260x704 Format 10 NumSamples 1 (Frame:46838).
+[2019.07.30-07.30.55:511][ 72]LogRenderer: Reallocating scene render targets to support 1336x744 Format 10 NumSamples 1 (Frame:46839).
+[2019.07.30-07.30.55:539][ 73]LogRenderer: Reallocating scene render targets to support 1400x780 Format 10 NumSamples 1 (Frame:46840).
+[2019.07.30-07.30.55:564][ 74]LogRenderer: Reallocating scene render targets to support 1432x800 Format 10 NumSamples 1 (Frame:46841).
+[2019.07.30-07.30.55:590][ 75]LogRenderer: Reallocating scene render targets to support 1476x824 Format 10 NumSamples 1 (Frame:46842).
+[2019.07.30-07.30.55:620][ 76]LogRenderer: Reallocating scene render targets to support 1516x844 Format 10 NumSamples 1 (Frame:46843).
+[2019.07.30-07.30.55:646][ 77]LogRenderer: Reallocating scene render targets to support 1592x888 Format 10 NumSamples 1 (Frame:46844).
+[2019.07.30-07.30.55:684][ 78]LogRenderer: Reallocating scene render targets to support 1648x920 Format 10 NumSamples 1 (Frame:46845).
+[2019.07.30-07.31.09:927][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.32.12:287][975]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.07.30-07.32.12:336][975]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.07.30-07.32.22:898][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.32.30:643][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.32.45:464][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.32.58:913][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.33.01:405][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.33.02:909][664]Cmd: STAT FPS
+[2019.07.30-07.33.03:756][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.33.07:825][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.33.19:371][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.33.22:526][924]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.33.24:877][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.33.26:170][329]Cmd: STAT FPS
+[2019.07.30-07.33.27:255][458]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.33.32:209][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.33.39:976][904]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.07.30-07.33.40:014][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.33.43:708][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.30-07.33.43:710][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-07.33.43:715][199]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 29, 2019, 9:33:43 PM)
+[2019.07.30-07.33.43:729][199]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.30-07.33.43:740][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009734s)
+[2019.07.30-07.33.43:741][199]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.30-07.33.43:741][199]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2019.07.30-07.33.43:741][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011965s)
+[2019.07.30-07.33.43:793][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.07.30-07.33.43:809][199]LogInit: XAudio2 using 'AV Receiver (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-07.33.43:818][199]LogInit: FAudioDevice initialized.
+[2019.07.30-07.33.43:819][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.33.43:861][199]LogLoad: Game class is 'Vanguard2GameMode'
+[2019.07.30-07.33.43:871][199]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.30-02.33.43
+[2019.07.30-07.33.43:873][199]LogWorld: Bringing up level for play took: 0.004677
+[2019.07.30-07.33.43:904][199]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2019.07.30-07.33.43:906][199]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.56
+[2019.07.30-07.33.43:906][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.30-07.34.08:445][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.30-07.34.08:447][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.34.08:472][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-07.34.08:472][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.30-07.34.08:492][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-07.34.08:495][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.07.30-07.34.08:555][141]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.07.30-07.34.21:334][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-07.34.23:273][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.34.24:152][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.34.26:036][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.34.28:318][338]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.34.28:892][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.34.29:269][446]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.34.29:290][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.34.32:013][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-07.34.34:566][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.34.37:252][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-07.34.40:070][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.34.52:637][864]LogRenderer: Reallocating scene render targets to support 2868x1620 Format 10 NumSamples 1 (Frame:64341).
+[2019.07.30-07.34.52:799][865]LogRenderer: Reallocating scene render targets to support 3088x1744 Format 10 NumSamples 1 (Frame:64344).
+[2019.07.30-07.34.57:774][407]Cmd: SELECT NONE
+[2019.07.30-07.34.58:585][501]Cmd: SELECT NONE
+[2019.07.30-07.34.59:407][597]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.07.30-07.34.59:474][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.35.01:553][804]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.35.01:607][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.35.03:607][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-07.35.30:115][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.36.07:330][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.36.11:923][430]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.07.30-07.36.13:671][625]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.07.30-07.36.14:406][683]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.36.16:438][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.36.29:058][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.37.01:555][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.37.39:828][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.07.30-07.37.39:944][824]LogSavePackage: Moving 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/ThirdPersonExampleMap_Auto1E393C6114AF879BA5548BEA5CCBE47CA.tmp' to 'C:/Users/Adam/Developer/Vanguard2/Vanguard2/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.07.30-07.37.39:946][824]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.136
+[2019.07.30-07.37.39:946][824]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.136
+[2019.07.30-07.39.09:236][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-07.39.28:882][287]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.30-07.46.21:363][493]LogSlate: Window 'Save Asset As' being destroyed
+[2019.07.30-07.50.18:831][ 84]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.30-07.50.18:882][ 84]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.30-07.50.22:099][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.30-07.50.25:196][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.50.30:935][441]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.07.30-07.50.32:442][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.50.34:355][746]Cmd: SELECT NONE
+[2019.07.30-07.50.35:026][818]Cmd: SELECT NONE
+[2019.07.30-07.50.36:901][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.50.39:316][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-07.50.50:514][458]Running D:/Program Files/Unreal Engine/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Adam/Developer/Vanguard2/Vanguard2/Vanguard2.uproject" -game -rocket -progress
+[2019.07.30-07.50.50:820][458]Discovering modules, targets and source code for project...
+[2019.07.30-07.50.51:926][458]Binding IntelliSense data...
+[2019.07.30-07.50.53:282][458]Binding IntelliSense data... 100%
+[2019.07.30-07.50.53:282][458]Writing project files...
+[2019.07.30-07.50.54:693][458]Writing project files... 100%

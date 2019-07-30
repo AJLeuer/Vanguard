@@ -1,0 +1,7 @@
+.idea/
+.vs/
+cmake-build-*/
+Binaries/
+Build/
+Intermediate/
+Saved/Cooked/
